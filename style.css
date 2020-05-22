@@ -1,0 +1,63 @@
+.naslov{}
+body {
+	background-image: url("max.jpg");
+}
+.uvod{background-color:;
+opacity: 0.9;
+border:;}
+.naslov{
+	font-size: 40px;
+padding-left: 15px;
+font-style: bold italic;
+
+text-shadow: 2px 3px gray;
+letter-spacing: 3px;}
+.ikona {
+	          border-radius: 30px;}
+.opis{padding-left: 15PX;}
+.topnav{background-color:#38a832;
+	overflow: hidden;
+
+
+}
+.topnav a{float: left;
+	color:black;
+text-align: center;
+padding: 14px  16px;
+text-decoration: none;
+font-size: 17px;
+
+}
+.topnav a:hover{background-color:#f50202;
+	color: #9aa832
+
+
+}
+.topnav a:active{background-color: white;
+	color: #9aa832
+
+}
+.omeni {background-color:#7b87ed;
+	border-radius: 10px;
+padding: 15px;
+margin-top: 20px;
+margin-left: 80%; }
+.podaci{background-color:#7b87ed;
+margin-top20px ;}
+.search-bar{float: right;
+padding-top: 15px;
+padding-right: 10px;}
+.tekstovi{background-color:#7b87ed ;
+	float: left;
+width: 600px;
+height: 400px;
+margin-top:2px;
+}
+.autici{font-style: italic;
+	color: blue;
+
+
+}
+.kolica{border-radius: 15px;
+
+}
